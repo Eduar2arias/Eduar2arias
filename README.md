@@ -29,7 +29,7 @@ Actualmente estoy en busqueda de una oportunidad laboral , ademas de estar en co
 
 
 ## Quieres saber un poco mas de mi ?
-**contactame
+** contactame
 data {
   *email: eduar2_arias@hotmail.com*,
 Linkedin : https://www.linkedin.com/in/breyner-eduardo-arias-9b6909260/
