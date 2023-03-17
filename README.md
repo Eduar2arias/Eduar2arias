@@ -1,6 +1,6 @@
 cv_profile
 Hola ! mi nombres es Eduardo arias
-Quien soy?
+#Quien soy?
 
 soy programador Full - Stack , realice mis estaudio Soy Henry, adicionalmente soy estudiante de 5 semestre de ingenieria de software
 
@@ -8,17 +8,17 @@ el lenguaje que mas domino y en el que mas dominio tengo es JavaScript , aprende
 
 Alguna de las tecnologia en las que he trabajado y estoy en constante perfeccionamiento son las siguientes:
 
-    JavaScrip
-        HTML
-        CSS
-        React.js
-        React Native ( en aprendizaje constante )
+    *JavaScrip
+       * HTML
+       * CSS
+       * React.js
+       * React Native ( en aprendizaje constante )
     Backend
-        Node.js
-        sequelize (ORM)
-        express (libreria)
-        Mongose ( ORM )
-        MongoDB
+       * Node.js
+       * sequelize (ORM)
+       * express (libreria)
+       * Mongose ( ORM )
+       * MongoDB
 
 **¿ Que hago ?
 
